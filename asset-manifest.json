@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.d225c085.css",
-    "main.js": "/static/js/main.0ac3d251.js",
-    "static/js/488.a7d5df12.chunk.js": "/static/js/488.a7d5df12.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.d225c085.css.map": "/static/css/main.d225c085.css.map",
-    "main.0ac3d251.js.map": "/static/js/main.0ac3d251.js.map",
-    "488.a7d5df12.chunk.js.map": "/static/js/488.a7d5df12.chunk.js.map"
+    "main.css": "/OrganicFarm/static/css/main.d225c085.css",
+    "main.js": "/OrganicFarm/static/js/main.117b8425.js",
+    "static/js/488.a7d5df12.chunk.js": "/OrganicFarm/static/js/488.a7d5df12.chunk.js",
+    "static/media/logo.svg": "/OrganicFarm/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/OrganicFarm/index.html",
+    "main.d225c085.css.map": "/OrganicFarm/static/css/main.d225c085.css.map",
+    "main.117b8425.js.map": "/OrganicFarm/static/js/main.117b8425.js.map",
+    "488.a7d5df12.chunk.js.map": "/OrganicFarm/static/js/488.a7d5df12.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d225c085.css",
-    "static/js/main.0ac3d251.js"
+    "static/js/main.117b8425.js"
   ]
 }
